@@ -1,5 +1,5 @@
 # Algorithms and Data Structures
-A Full Course for Beginners from Treehouse and freeCodeCamp
+A Full Course for Beginners from @Treehouse and @freeCodeCamp
 
 ## Table of contents
 
@@ -63,6 +63,7 @@ We can consider the number of tries took to guess the search as an indicator of 
 
 - > _Time Complexity_: **O(n)**
 
+![Linear Search BigO](https://github.com/phrbmr/algorithms-data-structures/blob/a594bb054b9624790c8be54df0e17bfe59a341b6/Images/LinearSearch.png)
 ___
 * _Evaluating Binary Search_
 
@@ -76,6 +77,7 @@ We can consider the number of tries took to guess the search as an indicator of 
 
 - > _Time complexity_: **O(log n)**
 
+![Binary Search BigO](https://github.com/phrbmr/algorithms-data-structures/blob/a594bb054b9624790c8be54df0e17bfe59a341b6/Images/BinarySearch.png)
 ___
 #### b) Time Complexity
 * Efficiency of an Algorithm
